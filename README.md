@@ -40,7 +40,7 @@ MakrDown 내용 정리
 Click [My Git Hub](https://github.com/leege1226/AI_2025_01)
 
 <!-- Image -->
-![image](https://images.app.goo.gl/8vPjqBQpcyDiTwH77)
+![image](https://postfiles.pstatic.net/20120615_30/snaps1_1339721440666NgJXG_JPEG/%BA%B0%BB%E7%C1%F8%C0%DF%C2%EF%B4%C2%B9%FD%B9%E3%BE%DF%B0%E6%BB%E7%C1%F8%C0%DF%C2%EF%B4%C2%B9%FD.jpg?type=w3840)
 
 <!-- Table -->
 
